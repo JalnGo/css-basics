@@ -1,0 +1,16 @@
+.container {
+    /* Modify the "container" class selector so that any element that it is
+     * applied to will have the following:
+     * - 1 px solid black border
+     * - 10 px padding
+     * - 10 px margin
+     * - A larger and bold font */
+}
+
+/* Create a class selector with the name "green" and modify it's properties so
+ * that any element that is it applied to will have a green background */
+
+/* Create a class selector with the name "orange" and modify it's properties so
+ * that any element that is it applied to will have a orange background */
+
+/* BONUS: change the color of the text */

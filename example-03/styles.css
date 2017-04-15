@@ -1,0 +1,17 @@
+.container {
+    background-color: yellow;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* KEY POINT */
+/* .hide-me { visibility: hidden; } */
+
+/* KEY POINT */
+/* .none    { display: none;      } */
+
+/* .inline  { display: inline;    } */
+

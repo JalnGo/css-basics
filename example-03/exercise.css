@@ -1,0 +1,11 @@
+.container {
+    background-color: yellow;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Follow the directions of the exercise.html file, create the appropriate
+ * classes, and modify the properties as needed. */
