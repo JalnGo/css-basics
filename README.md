@@ -13,6 +13,9 @@ After reviewing these samples the student should have an awareness of:
 - the different display options
 - the CSS box model
 - float and clear
+- responsive images
+- pseudo-classes 
+- how to center content
 
 ## Questions To Think About
 
@@ -30,3 +33,9 @@ Describe what happens to elements that follow an element that has a float on the
 page?  How can this problem be fixed?
 
 What is the advantage of using percentages as the value of element widths?
+
+What is one way to center content on a page?
+
+How can you make images more responsive on a page?
+
+Name a couple different pseudo-classes.

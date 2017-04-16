@@ -1,0 +1,15 @@
+header  { border-radius: 5px;  border: 1px solid black; padding: 10px; }
+footer  { border-radius: 5px;  border: 1px solid black; padding: 10px; }
+section { border-radius: 5px;  border: 1px solid black; padding: 10px; }
+h1      { text-align: center; }
+h3      { margin: 0; padding: 10px; }
+p       { margin: 0; padding: 10px; text-align: justify; }
+
+
+/* Center the content on the page and have it use 70% of the width */
+
+/* Remove the bullet points on the menu items in the nav area */
+
+/* Make the article text change color on hover */
+
+/* Make the image more responsive */

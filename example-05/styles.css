@@ -1,0 +1,14 @@
+ul { font-size: 30px; font-weight: bold; color: green; padding: 0; }
+.hover-area { text-align: center; padding: 10px; font-size: 50px; color: red; font-weight: bold; background-color: pink; }
+
+/* KEY POINT: centering trick */
+/* .container { width: 80%; margin: 0 auto; } */
+
+/* KEY POINT: responsive image */
+/* img { max-width: 100%; height: auto; } */
+
+/* KEY POINT: remove bullet points in list */
+/* .remove-bullets { list-style-type: none; } */
+
+/* KEY POINT */
+/* .hover-trick:hover { color: green; } */
