@@ -1,0 +1,22 @@
+.container {
+    background-color: yellow;
+    margin-right: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 25px;
+    font-weight: bold;
+
+    /* KEY POINT */
+    margin: 0 10px 10px 0;
+
+    /* Added to make things look a little nicer */
+    text-align: center;
+    width: 100px;
+
+}
+
+/* KEY POINT */
+/* .float-left { float: left; } */
+
+/* KEY POINT */
+/* .clear { clear: both; } */
