@@ -16,6 +16,7 @@ After reviewing these samples the student should have an awareness of:
 - responsive images
 - pseudo-classes 
 - how to center content
+- media queries
 
 ## Questions To Think About
 
@@ -39,3 +40,7 @@ What is one way to center content on a page?
 How can you make images more responsive on a page?
 
 Name a couple different pseudo-classes.
+
+What is the benefit of styling a page as "mobile first"?
+
+How can media queries help aid in responsive design?
