@@ -12,6 +12,7 @@ After reviewing these samples the student should have an awareness of:
 - class and id selectors
 - the different display options
 - the CSS box model
+- float and clear
 
 ## Questions To Think About
 
@@ -24,3 +25,8 @@ When would you choose to to apply a class to an element vs. using an id?
 What is the difference between "display:none" and "visibility:hidden"?
 
 Briefly name and describe the different areas of the CSS box model.
+
+Describe what happens to elements that follow an element that has a float on the
+page?  How can this problem be fixed?
+
+What is the advantage of using percentages as the value of element widths?
