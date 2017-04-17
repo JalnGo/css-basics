@@ -1,0 +1,14 @@
+.container {
+    background-color: yellow;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Modify this file to make anything with the container-01 class turn red once
+ * the browser's width reaches 600px */
+
+/* Modify this file to make anything with the container-02 class turn green once
+ * the browser's width reaches 1200px */
