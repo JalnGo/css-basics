@@ -1,0 +1,43 @@
+@font-color: #245624;   // KEY POINT
+.mobile()  { width: 100%; padding: 0;    margin: 0 0    10px 0;    }    // KEY POINT
+.desktop() { width: 75%;  padding: 10px; margin: 0 auto 10px auto; }
+
+h3      { color: #245624; margin: 0; padding: 10px; font-size: 30px; }
+h1      { color: #245624; text-align: center; }
+a       { color: #245624; }
+//h3      { color: @font-color; margin: 0; padding: 10px; font-size: 30px; }
+//a       { color: @font-color; font-weight: bold;   }
+//h1      { color: @font-color; text-align: center;  }
+
+header  { width: 100%; padding: 0; margin: 0 0 10px 0; }
+footer  { width: 100%; padding: 0; margin: 0 0 10px 0; }
+section { width: 100%; padding: 0; margin: 0 0 10px 0; }
+//header  { .mobile(); }
+//footer  { .mobile(); }
+//section { .mobile(); }
+
+nav ul   { list-style-type: none; padding: 0px; }
+nav ul a { font-weight: bold; }
+//nav {     // KEY POINT
+//    ul {
+//        list-style-type: none; padding: 0px;
+//        a { 
+//            font-weight: bold; 
+//        }
+//    }
+//}
+
+body    { font-family: Arial, Helvetica, sans-serif; margin: 0; }
+p       { margin: 0; padding: 10px; text-align: justify; color: #4E3F3F; font-size: 20px; }
+.float-left { float: none; width: 100%; }
+
+@media all and (min-width:850px) {
+    .float-left { float: left; width: 49%; }
+    .clear      { clear: both; }
+}
+
+@media all and (min-width:1250px) {
+    header  { .desktop(); }
+    footer  { .desktop(); }
+    section { .desktop(); }
+}

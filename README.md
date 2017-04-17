@@ -17,6 +17,7 @@ After reviewing these samples the student should have an awareness of:
 - pseudo-classes 
 - how to center content
 - media queries
+- how to use less CSS preprocessor
 
 ## Questions To Think About
 
@@ -44,3 +45,5 @@ Name a couple different pseudo-classes.
 What is the benefit of styling a page as "mobile first"?
 
 How can media queries help aid in responsive design?
+
+What are the different ways that we can use the less CSS preprocessor?
